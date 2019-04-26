@@ -9,7 +9,7 @@
     $servername_live = "us-cdbr-iron-east-02.cleardb.net";
     $user_live = "b339cf1f317569";
     $password_live = "29dcd907";
-    $dbname_lve = "heroku_f80f34e3fb7c40f";
+    $dbname_live = "heroku_f80f34e3fb7c40f";
     // Create connection
     
     //$conn = mysqli_connect($servername, $user, $password,$dbname);
